@@ -1,5 +1,6 @@
 {
     "name": "SML the video game (©2022 SML) Demo",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
